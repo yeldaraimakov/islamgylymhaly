@@ -1,0 +1,8 @@
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/editInput"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:hint="@string/action_search"
+    android:paddingLeft="20dp"
+    android:singleLine="true"
+    android:focusable="true"/>

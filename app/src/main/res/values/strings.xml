@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ислам ғылымхалы</string>
+    <string name="title_section1">Тазалық</string>
+    <string name="title_section2">Намаз</string>
+    <string name="title_section3">Ораза</string>
+    <string name="title_section4">Зекет</string>
+    <string name="title_section5">Қажылық және умра</string>
+    <string name="title_section6">Құрбандық</string>
+    <string name="title_section7">Аңшылық</string>
+    <string name="action_search">Іздеу</string>
+    <string name="extra0">App туралы</string>
+    <string name="extra1">Терминдерге түсінік</string>
+    <string name="extra2">Пайдаланған әдебиеттер</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
